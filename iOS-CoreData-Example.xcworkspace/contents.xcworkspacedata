@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Ingredient+CoreDataClass copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Beer+CoreDataProperties copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Ingredient+CoreDataProperties copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Beer+CoreDataClass copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Malts+CoreDataClass copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Malts+CoreDataProperties copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Hops+CoreDataProperties copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Food_Pairing+CoreDataProperties copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Food_Pairing+CoreDataClass copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Hops+CoreDataClass copy.swift">
+   </FileRef>
+   <FileRef
+      location = "group:iOS-CoreData-Example.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
